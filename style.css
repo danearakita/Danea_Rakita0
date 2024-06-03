@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+p{
+	color: rgb(75, 0, 130);
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+	line-height: 18px; 
+	width: 600px;
+	background-color: plum;
+	padding: 20px;
+}
+.paragraf_2 {color: indigo; background-color: rgba(255, 255, 255, 0.5);
+mark {
+  background-color: violet;
+  color: black;
+}}
+.novi_blok {
+	background-color: rgba(255, 255, 255, 0.9);
+	padding: 20px;
+	margin:20px;
+	width:45%
+}   
+	h1,h2{
+		font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+		color:blueviolet;	
+}
+	
+span {color: rgb(255, 0, 255);}
+.pozadina {
+    background-image: url("slike/bg.jpg");
+    background-color: plum
+}
+.drugapozadina{
+	background-color: plum;
+}	
+a:link {
+		color: black;
+		background-color: white;
+		padding: 5px;
+		line-height: 40px;
+		border:1px solid #000000;
+	}
+	
+a:hover { 
+	    background-color: orchid;
+	}
+	
